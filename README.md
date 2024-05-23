@@ -39,7 +39,10 @@ using bash test.sh to run tests again.
 COMMIT:
 
 ![IMAGE](0B13B559-81C7-423A-9438-F0E714FE9E5B_4_5005_c.jpeg)<bl/>
-
+used ` git init` to reinitiate the existing repository.
+then `git add ListExamples.java` and then `git commit -m "TestMerge2 fixed"
+this commited changes made.
+finally used `git push origin main`
 
 
 
