@@ -13,12 +13,12 @@ compiled and ran tests using javac and java commands.
 
 EDITING CODE USING VIM:
 ![IMAGE](D6D8B6BC-3107-44DB-B29D-49B63A06760B_1_105_c.jpeg)
-opened the file vim. key pressed: vim <space> ListExamples.java <enter>
+opened the file vim. key pressed: vim `<space>` ListExamples.java `<enter>`
 
 CHANGES MADE:
 ![IMAGE](92A8B39B-9FA8-41F0-A522-2624DABB9B09.jpeg)
-<down> key approximately 43 times to reach the line. then <right> key around 12 times to reach the last character of "index1".
-then pressed <esc wq> <enter>. changes saved.
+`<down>` key approximately 43 times to reach the line. then` <right>` key around 12 times to reach the last character of "index1".
+then pressed `<esc wq>`` <enter>`. changes saved.
 
 
 ![IMAGE](FBCA6CE2-08A0-492F-AEC6-6B274C612FA0_4_5005_c.jpeg)
