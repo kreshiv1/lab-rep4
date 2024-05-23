@@ -16,9 +16,9 @@ EDITING CODE USING VIM:
 opened the file vim. key pressed: vim `<space>` ListExamples.java `<enter>`
 
 CHANGES MADE:
-![IMAGE](92A8B39B-9FA8-41F0-A522-2624DABB9B09.jpeg)
+![IMAGE](92A8B39B-9FA8-41F0-A522-2624DABB9B09.jpeg) <bl/>
 `<down>` key approximately 43 times to reach the line. then` <right>` key around 12 times to reach the last character of "index1".
-then pressed `<esc wq>`` <enter>`. changes saved.
+then pressed `<esc wq> <enter>`. changes saved.
 
 
 ![IMAGE](FBCA6CE2-08A0-492F-AEC6-6B274C612FA0_4_5005_c.jpeg)
