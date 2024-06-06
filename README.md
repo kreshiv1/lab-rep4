@@ -39,7 +39,7 @@ using bash test.sh to run tests again.
 COMMIT:
 
 ![IMAGE](0B13B559-81C7-423A-9438-F0E714FE9E5B_4_5005_c.jpeg)<bl/>
-i then used ` git init` to reinitiate the existing repository.
+i then used `git init` to reinitiate the existing repository.
 i then added the ListExamples java file to the repository using the  `git add ListExamples.java` 
 and then  used `git commit -m "TestMerge2 fixed"` to commit the changes made
 finally used `git push origin main` to push the changes to the main branch
